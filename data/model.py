@@ -1,0 +1,6 @@
+PLAY_INTENT = "PlayIntent"
+FIRST_PLAYER = "Alexa"
+GETPLAYERSANDPLAY_INTENT = "GetPlayersAndPlayIntent"
+SLOT_NUMBER = "Number"
+SLOT_NAME = "Name"
+SLOT_ACTION = "Action"
